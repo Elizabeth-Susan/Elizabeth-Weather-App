@@ -1,0 +1,60 @@
+body {
+  font-family: "Sansita Swashed", cursive;
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+  color: #810000;
+  max-width: 1600px;
+}
+
+#card-text,
+#title {
+  margin-left: 10px;
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight: 500;
+  list-style: none;
+  line-height: 30px;
+}
+
+.form-control {
+  margin-top: 30px;
+  margin-left: 10px;
+  padding: 15px 25px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.btn-dark {
+  font-weight: 900;
+  padding: 20px 30px;
+  margin: 20px 50px;
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.cloud-icon {
+  color: #6a49e0;
+  font-size: 100px;
+  margin-bottom: 10px;
+}
+
+.card-title {
+  margin-top: 5px;
+  font-weight: 700;
+  text-shadow: rgba(0, 0, 0, 0.9);
+  text-transform: uppercase;
+}
+
+.border {
+  padding: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+
+.footer {
+  font-size: 20px;
+  text-align: right;
+  margin-top: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
